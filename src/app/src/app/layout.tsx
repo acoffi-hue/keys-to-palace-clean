@@ -1,1 +1,1 @@
-Code block (26 lines) - typescript
+export default function Home() { return (
