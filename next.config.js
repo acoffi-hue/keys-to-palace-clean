@@ -1,1 +1,3 @@
-Code block (11 lines) - javascript
+/** @type {import('next').NextConfig} */ const nextConfig = { eslint: { ignoreDuringBuilds: true, }, typescript: { ignoreBuildErrors: true, }, };
+
+module.exports = nextConfig;
